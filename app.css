@@ -1,0 +1,34 @@
+.main{
+    margin-top: 10%;
+}
+.mainClick{
+    margin-top: 6%;
+}
+img{
+    width: 28px;
+    margin-left: 10px;
+}
+body{
+    background-image:  url(bitcoin-with-black-background.avif);
+}
+body h1{
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 900;
+    font-size: 50px;
+    color:white;
+    text-shadow: 4px 4px rgb(75, 74, 74);
+}
+
+body h1:hover{
+    color: goldenrod;
+}
+.fix{
+    border:1px solid #fffefe;
+    box-shadow: 5px 5px white;
+    border-radius: 15px;
+    background-color:#000000 ;
+    padding: 10px;
+}
+h1,h4{
+    color:#e5e5e5;
+}
